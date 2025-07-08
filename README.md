@@ -1,6 +1,54 @@
-# 💫 About Me:
-I’m currently working on my Bachelor’s in Information Technology at the University of Eastern Finland (Joensuu), while actively learning Full Stack Development through hands-on projects.<br>I’m looking to collaborate on IT-related projects, internship opportunities, and web or software development work, especially in frontend/backend or full stack roles. I’ve already built and deployed games, portfolio websites, and full-stack apps, and I’m eager to grow further.<br>I’m looking for help with internships, paid development projects, or junior-level job opportunities where I can apply my skills and gain real-world experience.<br>Right now, I’m learning modern Full Stack Development (React, Node.js, Express, MongoDB), UI testing, API integration, and best practices for scalable web apps.<br>You can ask me about how to complete fullstackopen.com course, full-stack development, Java, C, C++, Python, GitHub project setup, LinkedIn optimization, deploying full-stack apps, or how to turn student projects into real-world portfolio pieces..<br>Fun fact, my Git commits are cleaner than my room 😄
+# 👨‍💻 Hii thereee! Welcome to my code arena.
+I’m Najam, a curious coder who turns caffeine and curiosity into code.
 
+---
+
+## 👨‍🎓 Currently Working On
+
+I'm currently working on my **Bachelor’s in Information Technology** at the **University of Eastern Finland (Joensuu)** while actively learning **Full Stack Development** through hands-on projects.
+
+---
+
+## 🤝 What I'm Looking For
+
+- 💡 **IT-related projects**
+- 💼 **Internship opportunities**
+- 🧑‍💻 **Frontend / Backend / Full Stack roles**
+
+I've already built and deployed games, portfolio websites, and full-stack apps — and I’m eager to grow further.
+
+---
+
+## 🚀 How You Can Help
+
+I'm currently looking for:
+- 🧩 **Internships**
+- 💰 **Paid development projects**
+- 🧑‍🎓 **Junior-level positions**
+
+These opportunities help me apply my skills and gain real-world experience.
+
+---
+
+## 🌱 Currently Learning
+
+I'm diving deeper into:
+- 🔧 Full Stack Development (React, Node.js, Express, MongoDB)
+- ✅ UI Testing
+- 🌐 API Integration
+- 🧠 Best practices for scalable web apps
+
+---
+
+## 💬 Ask Me About
+
+You can ask me about how to complete the [Full Stack Open](https://fullstackopen.com/en/) course, full-stack development, Java, C, C++, Python, GitHub project setup, LinkedIn optimization, deploying full-stack apps, or how to turn student projects into real-world portfolio pieces.
+
+---
+
+## 😄 Fun Fact
+
+> My Git commits are cleaner than my room 😄
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/najam-ul-hassan-indie-web-developer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:connect.najam@gmail.com) 
